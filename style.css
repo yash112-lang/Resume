@@ -1,0 +1,81 @@
+.mainheading{
+    text-align: center;
+    /* border-bottom: 1px solid black; */
+}
+
+.container{
+    padding-left: 30px;
+    padding-right: 30px;
+
+    
+}
+
+.secondcontainer{
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.thirdcontainer{
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.fourthcontainer{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.fifthcontainer{
+    padding-left: 30px;
+}
+
+.subsecondcontainer{
+    padding-left: 600px;
+    margin-top: -40px;
+}
+
+.subthirdcontainer{
+    padding-left: 600px;
+    margin-top: -40px;
+}
+
+.subfourthcontainer{
+    padding-left: 600px;
+    margin-top: -40px;
+}
+
+.subfifthcontainer{
+    padding-left: 600px;
+    margin-top: -40px;
+}
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+}
+
+.subfirstcontainer{
+    padding-left: 600px;
+    margin-top: -40px;
+}
+
+.education{
+    font-weight: 1000;
+}
+
+.mainwholecontainer{
+    border: 2px solid black;
+    border-width: thin;
+    margin-left: 300px;
+    margin-right: 300px;
+}
